@@ -1,80 +1,135 @@
-
 [
   {
-    "description": "Cobalt-thiolate complexes in dehydrogenative coupling of hydrostannanes: <b>S. Elangovan</b>, E. Irran, H. F. T. Klare, and M. Oestreich, Organometallics 2022, 41, 852–857. (Invited for front cover picture)",
-    "link": ""
+    "title": "Cationic cobalt-thiolate complexes in dehydrogenative coupling of hydrostannanes",
+    "authors": "S. Elangovan, E. Irran, H. F. T. Klare, and M. Oestreich",
+    "journal": "Organometallics 2022, 41, 852–857",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.organomet.2c00092",
+    "images": ""
   },
   {
-    "description": "From wood to tetrahydro-2-benzazepines in three waste-free steps: modular synthesis of biologically active lignin-derived scaffolds: S. Elangovan, A. Afanasenko, J. Haupenthal, Y. Liu, Z. Sun, A. K. H. Hirsch, K. Barta, ACS Cent. Sci. 2019, 5, 1707-1716.",
-    "link": ""
+    "title": "From wood to tetrahydro-2-benzazepines in three waste-free steps: modular synthesis of biologically active lignin-derived scaffolds",
+    "authors": "S. Elangovan, A. Afanasenko, J. Haupenthal, Y. Liu, Z. Sun, A. K. H. Hirsch, K. Barta",
+    "journal": "ACS Cent. Sci. 2019, 5, 1707–1716",
+    "link": "https://pubs.acs.org/doi/10.1021/acscentsci.9b00781",
+    "images": ""
   },
   {
-    "description": "Ruthenium and iron‐catalysed decarboxylative N‐alkylation of cyclic α‐amino acids with alcohols: sustainable routes to pyrrolidine and piperidine derivatives: A. Afanasenko, R. Hannah, T. Yan, S. Elangovan, K. Barta, ChemSusChem 2019, 12, 3801-3807.",
-    "link": ""
+    "title": "Ruthenium and iron‐catalysed decarboxylative N‐alkylation of cyclic α‐amino acids with alcohols: sustainable routes to pyrrolidine and piperidine derivatives",
+    "authors": "A. Afanasenko, R. Hannah, T. Yan, S. Elangovan, K. Barta",
+    "journal": "ChemSusChem 2019, 12, 3801–3807",
+    "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.201901499",
+    "images": ""
   },
   {
-    "description": "Primary benzylamines by efficient N-alkylation of benzyl alcohols using commercial Ni catalysts and easy-to-handle ammonia sources: Y. Liu, A. Afanasenko, S. Elangovan, Z. Sun, K. Barta, ACS. Sustainable Chem. Eng. 2019, 7, 11267-11274.",
-    "link": ""
+    "title": "Primary benzylamines by efficient N-alkylation of benzyl alcohols using commercial Ni catalysts and easy-to-handle ammonia sources",
+    "authors": "Y. Liu, A. Afanasenko, S. Elangovan, Z. Sun, K. Barta",
+    "journal": "ACS Sustainable Chem. Eng. 2019, 7, 11267–11274",
+    "link": "https://pubs.acs.org/doi/10.1021/acssuschemeng.9b00619",
+    "images": ""
   },
   {
-    "description": "Efficient nickel-catalysed N-alkylation of amines with alcohols: A. Afanasenko, S. Elangovan, M. C. A. Stuart, G. Bonnura, F. Frusteri, K. Barta, Catal. Sci. Technol. 2018, 8, 5498-5505.",
-    "link": ""
+    "title": "Efficient nickel-catalysed N-alkylation of amines with alcohols",
+    "authors": "A. Afanasenko, S. Elangovan, M. C. A. Stuart, G. Bonnura, F. Frusteri, K. Barta",
+    "journal": "Catal. Sci. Technol. 2018, 8, 5498–5505",
+    "link": "https://pubs.rsc.org/en/content/articlelanding/2018/cy/c8cy01200h",
+    "images": ""
   },
   {
-    "description": "The bright side of lignin depolymerization: towards new platform chemicals: Z. Sun, B. Fridrich, A. de Santi, S. Elangovan, K. Barta, Chem. Rev. 2018, 118, 614–678. (Sustainable chemistry special issue). ",
-    "link": ""
+    "title": "The bright side of lignin depolymerization: towards new platform chemicals",
+    "authors": "Z. Sun, B. Fridrich, A. de Santi, S. Elangovan, K. Barta",
+    "journal": "Chem. Rev. 2018, 118, 614–678",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.chemrev.7b00588",
+    "images": ""
   },
   {
-    "description": "A stable manganese pincer catalyst for the selective dehydrogenation of methanol: M. A-Fernandez, L. K. Vogt, S. Fischer, W. Zhou, H. Jiao, M. Garbe, S. Elangovan, K. Junge, H. Junge, R. Ludwig, M. Beller, Angew. Chem. Int. Ed. 2017, 56, 559–562.",
-    "link": ""
+    "title": "A stable manganese pincer catalyst for the selective dehydrogenation of methanol",
+    "authors": "M. A-Fernandez, L. K. Vogt, S. Fischer, W. Zhou, H. Jiao, M. Garbe, S. Elangovan, K. Junge, H. Junge, R. Ludwig, M. Beller",
+    "journal": "Angew. Chem. Int. Ed. 2017, 56, 559–562",
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201610182",
+    "images": ""
   },
   {
-    "description": "Molecularly defined manganese pincer complexes for selective transfer hydrogenation of ketones: M. Perez, S. Elangovan, A. Spannenberg, K. Junge, M. Beller, ChemSusChem 2017, 10, 83-86. (Selected as a VIP article)",
-    "link": ""
+    "title": "Molecularly defined manganese pincer complexes for selective transfer hydrogenation of ketones",
+    "authors": "M. Perez, S. Elangovan, A. Spannenberg, K. Junge, M. Beller",
+    "journal": "ChemSusChem 2017, 10, 83–86",
+    "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.201601057",
+    "images": ""
   },
   {
-    "description": "Improved and general manganese catalyzed N-methylation of aromatic amines using methanol: J. Neumann, S. Elangovan, A. Spannenberg, K. Junge, M. Beller, Chem. Eur. J. 2017, 23, 5410–5413. (Selected as a VIP article and highlighted in the “cover picture” Chem. Eur. J. 2017, 23, 5625)",
-    "link": ""
+    "title": "Improved and general manganese catalyzed N-methylation of aromatic amines using methanol",
+    "authors": "J. Neumann, S. Elangovan, A. Spannenberg, K. Junge, M. Beller",
+    "journal": "Chem. Eur. J. 2017, 23, 5410–5413",
+    "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201605218",
+    "images": ""
   },
   {
-    "description": "Half-Sandwich manganese complexes bearing Cp tethered N-heterocyclic carbene ligands: synthesis and mechanistic insights into the catalytic ketone hydrosilylation: D. A. Valyaev, D. Wei, S. Elangovan, M. Cavailles, V. Dorcet, J.-B. Sortais, C. Darcel, N. Lugan, Organometallics 2016, 35, 4090–4098.",
-    "link": ""
+    "title": "Half-Sandwich manganese complexes bearing Cp tethered N-heterocyclic carbene ligands: synthesis and mechanistic insights into catalytic ketone hydrosilylation",
+    "authors": "D. A. Valyaev, D. Wei, S. Elangovan, M. Cavailles, V. Dorcet, J.-B. Sortais, C. Darcel, N. Lugan",
+    "journal": "Organometallics 2016, 35, 4090–4098",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.organomet.6b00785",
+    "images": ""
   },
   {
-    "description": "Selective catalytic two-step process for ethylene glycol from carbon monoxide: K. Dong, S. Elangovan, R. Sang, A. Spannenberg, R. Jackstell, K. Junge, Y. Li, M. Beller, Nat. Commun. 2016, 7, 12075.",
-    "link": ""
+    "title": "Selective catalytic two-step process for ethylene glycol from carbon monoxide",
+    "authors": "K. Dong, S. Elangovan, R. Sang, A. Spannenberg, R. Jackstell, K. Junge, Y. Li, M. Beller",
+    "journal": "Nat. Commun. 2016, 7, 12075",
+    "link": "https://www.nature.com/articles/ncomms12075",
+    "images": ""
   },
   {
-    "description": "Manganese catalyzed hydrogen autotransfer C-C bond formation: α-Alkylation of ketones with primary alcohols: M. Pena-Lopez, P. Piehl, S. Elangovan, H. Neumann, M. Beller, Angew. Chem. Int. Ed. 2016, 55, 14967-14971.",
-    "link": ""
+    "title": "Manganese catalyzed hydrogen autotransfer C–C bond formation: α-Alkylation of ketones with primary alcohols",
+    "authors": "M. Pena-Lopez, P. Piehl, S. Elangovan, H. Neumann, M. Beller",
+    "journal": "Angew. Chem. Int. Ed. 2016, 55, 14967–14971",
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201607072",
+    "images": ""
   },
   {
-    "description": "Hydrogenation of esters to alcohols catalyzed by defined manganese pincer complexes: S. Elangovan, M. Garbe, K. Junge, H. Jiao, A. Spannenberg, M. Beller, Angew. Chem. Int. Ed. 2016, 55, 15364–15368. (Selected as a VIP article and highlighted in the “cover picture” Angew. Chem. Int. Ed. 2016, 55, 15184)",
-    "link": ""
+    "title": "Hydrogenation of esters to alcohols catalyzed by defined manganese pincer complexes",
+    "authors": "S. Elangovan, M. Garbe, K. Junge, H. Jiao, A. Spannenberg, M. Beller",
+    "journal": "Angew. Chem. Int. Ed. 2016, 55, 15364–15368",
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201607233",
+    "images": ""
   },
   {
-    "description": "Efficient and selective N-alkylation of amines with alcohols catalyzed by manganese pincer complexes: S. Elangovan, J. Neumann, J.-B. Sortais, K. Junge, C. Darcel, M. Beller, Nat. Commun. 2016, 7, 12641.",
-    "link": ""
-  },
-   {
-    "description": "Selective catalytic hydrogenation of nitriles, ketones and aldehydes by well-defined manganese pincer complexes: S. Elangovan, C. Topf, S. Fischer, H. Jiao, A. Spannenberg, W. Baumann, R. Ludwig, K. Junge, M. Beller, J. Am. Chem. Soc. 2016, 138, 8809-8814.",
-    "link": ""
-  },
-   {
-    "description": "Improved second generation iron pincer complexes for effective ester hydrogenation: S. Elangovan, B. Wendt, C. Topf, S. Bachmann, M. Scalone, A. Spannenberg, H. Jiao, W. Baumann, K. Junge, M. Beller, Adv. Synth. Catal. 2016, 358, 820-825. (Selected as a VIP article)",
-    "link": ""
-  },
-   {
-    "description": "Iron-catalyzed a-alkylation of ketones with alcohols: S. Elangovan, J.-B. Sortais, M. Beller, C. Darcel, Angew. Chem. Int. Ed. 2015, 54, 14483-14486.",
-    "link": ""
-  },
-   {
-    "description": "Knölker’s iron complexes bearing a N-heterocyclic carbene ligand: synthesis, characterization, and catalytic dehydration of primary amides: S. Elangovan, S. Quintero-Duque, V. Dorcet, T. Roisnel, L. Norel, C. Darcel, J.-B. Sortais, Organometallics 2015, 34, 4521-4528.",
-    "link": ""
+    "title": "Efficient and selective N-alkylation of amines with alcohols catalyzed by manganese pincer complexes",
+    "authors": "S. Elangovan, J. Neumann, J.-B. Sortais, K. Junge, C. Darcel, M. Beller",
+    "journal": "Nat. Commun. 2016, 7, 12641",
+    "link": "https://www.nature.com/articles/ncomms12641",
+    "images": ""
   },
   {
-    "description": "Hydrosilylation of aldehydes and ketones catalyzed by half-sandwich manganese (I) N-heterocyclic carbene complexes: J. Zheng, S. Elangovan, D. A. Valyaev, R. Brousses, V. César, J.-B. Sortais, C. Darcel, N. Lugan, G. Lavigne, Adv. Synth. Catal. 2014, 356, 1093-1097.",
-    "link": ""
+    "title": "Selective catalytic hydrogenation of nitriles, ketones and aldehydes by well-defined manganese pincer complexes",
+    "authors": "S. Elangovan, C. Topf, S. Fischer, H. Jiao, A. Spannenberg, W. Baumann, R. Ludwig, K. Junge, M. Beller",
+    "journal": "J. Am. Chem. Soc. 2016, 138, 8809–8814",
+    "link": "https://pubs.acs.org/doi/full/10.1021/jacs.6b03709",
+    "images": ""
+  },
+  {
+    "title": "Improved second generation iron pincer complexes for effective ester hydrogenation",
+    "authors": "S. Elangovan, B. Wendt, C. Topf, S. Bachmann, M. Scalone, A. Spannenberg, H. Jiao, W. Baumann, K. Junge, M. Beller",
+    "journal": "Adv. Synth. Catal. 2016, 358, 820–825",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adsc.201500930",
+    "images": ""
+  },
+  {
+    "title": "Iron-catalyzed α-alkylation of ketones with alcohols",
+    "authors": "S. Elangovan, J.-B. Sortais, M. Beller, C. Darcel",
+    "journal": "Angew. Chem. Int. Ed. 2015, 54, 14483–14486",
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201506698",
+    "images": ""
+  },
+  {
+    "title": "Knölker’s iron complexes bearing a N-heterocyclic carbene ligand: synthesis, characterization, and catalytic dehydration of primary amides",
+    "authors": "S. Elangovan, S. Quintero-Duque, V. Dorcet, T. Roisnel, L. Norel, C. Darcel, J.-B. Sortais",
+    "journal": "Organometallics 2015, 34, 4521–4528",
+    "link": "https://pubs.acs.org/doi/10.1021/acs.organomet.5b00553",
+    "images": ""
+  },
+  {
+    "title": "Hydrosilylation of aldehydes and ketones catalyzed by half-sandwich manganese (I) N-heterocyclic carbene complexes",
+    "authors": "J. Zheng, S. Elangovan, D. A. Valyaev, R. Brousses, V. César, J.-B. Sortais, C. Darcel, N. Lugan, G. Lavigne",
+    "journal": "Adv. Synth. Catal. 2014, 356, 1093–1097",
+    "link": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adsc.201300905",
+    "images": ""
   }
-  
 ]
