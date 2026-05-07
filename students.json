@@ -75,5 +75,60 @@
     "scholar": "https://orcid.org/0009-0007-8475-8167",
     "linkedin": "https://www.linkedin.com/in/sample",
     "email": "atul@example.com"
+  },
+  {
+    "name": "Nitin Acchelal Yadav",
+    "role": "Alumni",
+    "focus": "Cobalt catalysed hydrfunctionalization of alkenes and alkynes with borane and tin",
+    "year": "2022-24",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/backup.png",
+    "orcid": "",
+    "scholar": "",
+    "linkedin": "",
+    "email": ""
+  },
+  {
+    "name": "Abhishek Kumar",
+    "role": "Alumni",
+    "focus": "C-N bond formation with alcohols via hydrogen borrowing catalysis using first row transition metals",
+    "year": "2022-24",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/backup.png",
+    "orcid": "",
+    "scholar": "",
+    "linkedin": "",
+    "email": ""
+  },
+  {
+    "name": "Anshika",
+    "role": "Alumni",
+    "focus": "Transition metal catalysed transfer hydrogenationof carbonyl compounds using biomass",
+    "year": "2021-23",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/backup.png",
+    "orcid": "",
+    "scholar": "",
+    "linkedin": "",
+    "email": ""
+  },
+  {
+    "name": "Mansi Yadav",
+    "role": "Alumni",
+    "focus": "Heterogeneous manganese based catalysis for hydrogen borrowing",
+    "year": "2023-25",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/backup.png",
+    "orcid": "",
+    "scholar": "",
+    "linkedin": "",
+    "email": ""
+  },
+  {
+    "name": "Alka Yadav",
+    "role": "Alumni",
+    "focus": "Copper pincer complexes for hydrofunctionalization",
+    "year": "2023-25",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/backup.png",
+    "orcid": "",
+    "scholar": "",
+    "linkedin": "",
+    "email": ""
   }
 ]
