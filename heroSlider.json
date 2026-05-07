@@ -1,12 +1,5 @@
 [
   {
-    "src": "https://www.energy.gov/sites/default/files/2024-07/doe-explains-catalysts.png",
-    "heading": "Material Stability",
-    "subheading": "Ultrastable MOFs for practical applications",
-    "buttonText": "Read the paper",
-    "buttonLink": "#"
-  },
-  {
     "src": "https://cdn-images-1.medium.com/max/860/1*Xhmgia44I9FV-J1NeBgGrA.jpeg",
     "heading": "Green Chemistry",
     "subheading": "Sustainable solutions through innovation",
@@ -15,8 +8,8 @@
   },
   {
     "src": "https://scitechdaily.com/images/Green-Chemistry-Energy-Catalyst-Art.jpg",
-    "heading": "Catalysis & Design",
-    "subheading": "Advanced simulations for molecular engineering",
+    "heading": "Ligand and Catalyst design",
+    "subheading": "Base metal catalysis",
     "buttonText": "Learn More",
     "buttonLink": "#"
   }
