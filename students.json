@@ -44,17 +44,6 @@
     "email": "rashidkhan.rs.chy24@itbhu.ac.in"
   },
   {
-    "name": "atul",
-    "role": "Alumni",
-    "focus": "NLP for Legal Tech",
-    "year": "2024",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "orcid": "https://orcid.org/0009-0007-8475-8167",
-    "scholar": "https://orcid.org/0009-0007-8475-8167",
-    "linkedin": "https://www.linkedin.com/in/sample",
-    "email": "atul@example.com"
-  },
-  {
     "name": "Mohammad Zahid Hussain",
     "role": "PhD Student",
     "focus": "Functionalization of biomass",
@@ -84,39 +73,6 @@
     "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
     "orcid": "https://orcid.org/0009-0007-8475-8167",
     "scholar": "https://orcid.org/0009-0007-8475-8167",
-    "linkedin": "https://www.linkedin.com/in/sample",
-    "email": "atul@example.com"
-  },
-  {
-    "name": "atul",
-    "role": "Alumni",
-    "focus": "NLP for Legal Tech",
-    "year": "2024",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "orcid": "",
-    "scholar": "",
-    "linkedin": "https://www.linkedin.com/in/sample",
-    "email": "atul@example.com"
-  },
-  {
-    "name": "atul",
-    "role": "Masters Student",
-    "focus": "NLP for Legal Tech",
-    "year": "2024",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "orcid": "",
-    "scholar": "",
-    "linkedin": "https://www.linkedin.com/in/sample",
-    "email": "atul@example.com"
-  },
-  {
-    "name": "atul",
-    "role": "Alumni",
-    "focus": "NLP for Legal Tech",
-    "year": "2024",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/teams/WhatsApp%20Image%202025-01-22%20at%206.03.11%20PM.jpeg",
-    "orcid": "",
-    "scholar": "",
     "linkedin": "https://www.linkedin.com/in/sample",
     "email": "atul@example.com"
   }
