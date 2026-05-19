@@ -1,4 +1,5 @@
-[
+{
+  "equipment": [
   {
     "title": "Glovebox",
     "description": "For handling air-sensitive compounds under inert atmosphere.",
@@ -30,3 +31,4 @@
     "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
   }
 ]
+}
