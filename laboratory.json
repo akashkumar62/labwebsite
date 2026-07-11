@@ -2,31 +2,31 @@
   {
     "title": "Drying Oven",
     "description": "Uses controlled heat to remove moisture from samples and laboratory glassware.",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/refs/heads/main/gallery/Drying%20oven.jpeg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/Drying%20oven.jpeg"
   },
   {
     "title": "Schlenk Line",
     "description": "Provides an inert atmosphere and vacuum for air- and moisture-sensitive reactions.",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/refs/heads/main/gallery/Fume%20hood%20with%20schlenk%20line%20system.jpeg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/Fume%20hood%20with%20schlenk%20line%20system.jpeg"
   },
   {
     "title": "IKA - Rotary Evaporator (Automatic)",
     "description": "Removes solvents efficiently under reduced pressure using automated controls.",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/refs/heads/main/gallery/IKA%20-%20Rotary%20Evaporator%20(Automatic).jpeg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/IKA%20-%20Rotary%20Evaporator%20(Automatic).jpeg"
   },
   {
     "title": "IKA - Rotary Evaporator (Manual)",
     "description": "Concentrates or recovers solvents under reduced pressure with manual operation.",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/refs/heads/main/gallery/IKA%20-%20Rotary%20Evaporator%20(Manual).jpeg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/IKA%20-%20Rotary%20Evaporator%20(Manual).jpeg"
   },
   {
     "title": "UV-Vis Spectrophotometer",
     "description": "Measures the absorption of ultraviolet and visible light by samples.",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/refs/heads/main/gallery/UV%20Chamber.jpeg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/UV%20Chamber.jpeg"
   },
   {
     "title": "Weighing Balance",
     "description": "Measures the mass of chemicals and samples with high precision.",
-    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/refs/heads/main/gallery/Weighing%20balance.jpeg"
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/Weighing%20balance.jpeg"
   }
 ]
