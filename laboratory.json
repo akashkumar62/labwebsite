@@ -1,32 +1,32 @@
 [
   {
-    "title": "Glovebox",
-    "description": "For handling air-sensitive compounds under inert atmosphere.",
-    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+    "title": "Drying Oven",
+    "description": "Uses controlled heat to remove moisture from samples and laboratory glassware.",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/gallery/Drying oven.jpeg"
   },
   {
     "title": "Schlenk Line",
-    "description": "Glassware setup for air-free synthesis and vacuum techniques.",
-    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+    "description": "Provides an inert atmosphere and vacuum for air- and moisture-sensitive reactions.",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/gallery/Fume hood with schlenk line system.jpeg"
   },
   {
-    "title": "NMR Spectrometer",
-    "description": "Used to determine molecular structures and compositions.",
-    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+    "title": "IKA - Rotary Evaporator (Automatic)",
+    "description": "Removes solvents efficiently under reduced pressure using automated controls.",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/gallery/IKA - Rotary Evaporator (Automatic).jpeg"
   },
   {
-    "title": "GC-MS",
-    "description": "For gas chromatography and mass spectrometry analysis.",
-    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+    "title": "IKA - Rotary Evaporator (Manual)",
+    "description": "Concentrates or recovers solvents under reduced pressure with manual operation.",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/gallery/IKA - Rotary Evaporator (Manual).jpeg"
   },
   {
     "title": "UV-Vis Spectrophotometer",
-    "description": "Analyzes absorption spectra of various compounds.",
-    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+    "description": "Measures the absorption of ultraviolet and visible light by samples.",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/gallery/UV Chamber.jpeg"
   },
   {
-    "title": "Fume Hood",
-    "description": "Ensures safe handling of hazardous chemicals.",
-    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+    "title": "Weighing Balance",
+    "description": "Measures the mass of chemicals and samples with high precision.",
+    "image": "https://raw.githubusercontent.com/akashkumar62/labwebsite/gallery/Weighing balance.jpeg"
   }
 ]
